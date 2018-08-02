@@ -1,0 +1,41 @@
+# Project specific
+
+# Misc
+*~
+*.swp
+*.DS_Store
+.idea
+.python-version
+*.log
+tmp/
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+.mypy_cache
+__pycache__
+*.ipynb
+ipynb*
+*.ipynb_checkpoints
+
+# Editors
+.idea
+
+# Building
+build/
+dist/
+.eggs/
+*.egg-info/
+*.so
+
+# Testing
+.cache
+.coverage
+!.coveragerc
+htmlcov
+coverage.html
+coverage.xml
+xunit.xml
+*.log
+
